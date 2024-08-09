@@ -1,0 +1,15 @@
+#body{
+    height: 100vh;
+    width:100%;
+    /* background-color:green; */
+    background: linear-gradient(190deg, rgb(219, 211, 211),rgb(200, 200, 200));
+}
+nav{
+    background-color: rgb(230, 219, 219);
+    color:aliceblue;
+}
+#imagesinan{
+    width: 10px;
+    height: 10px;
+
+}
